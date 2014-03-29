@@ -1,0 +1,9 @@
+balljoint knee_r {
+    offset 0 -0.3 0
+    boxmin -0.05 -0.3 -0.05
+    boxmax 0.05 0 0.05
+    rotxlimit -2 0
+    rotylimit 0 0
+    rotzlimit 0 0
+    pose -3 1 2
+}
